@@ -1,4 +1,8 @@
-package com.example.poker_calculator;
+package com.example.poker_calculator.Player;
+
+import com.example.poker_calculator.CardStructure.Card;
+import com.example.poker_calculator.CardStructure.HandRankings;
+import com.example.poker_calculator.MainGame.TableCache;
 
 import java.util.ArrayList;
 import java.util.Arrays;

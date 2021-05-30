@@ -1,4 +1,6 @@
-package com.example.poker_calculator;
+package com.example.poker_calculator.Player;
+
+import com.example.poker_calculator.CardStructure.Card;
 
 public class Player {
 

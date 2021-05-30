@@ -1,5 +1,9 @@
 package com.example.poker_calculator;
 
+import com.example.poker_calculator.CardStructure.Card;
+import com.example.poker_calculator.CardStructure.CardTypes;
+import com.example.poker_calculator.MainGame.Game;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;

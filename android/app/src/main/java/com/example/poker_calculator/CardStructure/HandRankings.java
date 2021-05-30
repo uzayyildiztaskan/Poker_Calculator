@@ -1,4 +1,4 @@
-package com.example.poker_calculator;
+package com.example.poker_calculator.CardStructure;
 
 public enum HandRankings {
 

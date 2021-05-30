@@ -1,4 +1,10 @@
-package com.example.poker_calculator;
+package com.example.poker_calculator.MainGame;
+
+import com.example.poker_calculator.CardStructure.Card;
+import com.example.poker_calculator.CardStructure.CardTypes;
+import com.example.poker_calculator.CardStructure.Deck;
+import com.example.poker_calculator.Player.Player;
+import com.example.poker_calculator.Player.PlayerWinCalculator;
 
 public class Game {
 
